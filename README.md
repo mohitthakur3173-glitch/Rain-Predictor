@@ -24,22 +24,6 @@ python app.py
 4. Open your browser and visit
 http://127.0.0.1:5000
 
-## Deployment
-
-This application is deployed using Render.
-
-Steps:
-- Push the project to GitHub
-- Create a new Web Service on Render
-- Connect the GitHub repository
-- Use the following commands:
-
-Build Command:
-pip install -r requirements.txt
-
-Start Command:
-python app.py
-
 ## Machine Learning Model
 
 - The model is trained using Scikit-learn
@@ -49,7 +33,6 @@ python app.py
 ## Future Improvements
 - Improve UI design
 - Add support for multiple input features
-- Display model accuracy and evaluation metrics
 
 ## Author
 Mohit Thakur
